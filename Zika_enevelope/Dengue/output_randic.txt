@@ -1,0 +1,5 @@
+10176
+1210.1066409481325
+time taken = 582992
+time taken = 757
+total_time_taken = 757

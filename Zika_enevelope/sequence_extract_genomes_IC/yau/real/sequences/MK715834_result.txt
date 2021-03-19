@@ -1,0 +1,15 @@
+count of a: 604
+count of c: 318
+count of g: 375
+count of t: 404
+total count: 1701
+mx: 504.000000
+my: 600.155579
+nx: 346.500000
+ny: 872.953613
+x_resultant: 771.750000
+y_resultant: 929.250000
+mewx: 553.386719
+mewy: -98.284210
+sqrGr: 315896.656250
+gr: 562.046875

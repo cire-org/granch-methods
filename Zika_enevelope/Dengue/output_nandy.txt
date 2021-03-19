@@ -1,0 +1,4628 @@
+10175
+gr_value = 414.663719175
+time taken = 9144
+time taken = 0
+10176
+gr_value = 426.825491272
+time taken = 2947
+time taken = 0
+10176
+gr_value = 430.795775281
+time taken = 2973
+time taken = 0
+10176
+gr_value = 419.033411556
+time taken = 2981
+time taken = 0
+10176
+gr_value = 405.652560697
+time taken = 2949
+time taken = 0
+10171
+gr_value = 394.832876037
+time taken = 2878
+time taken = 0
+10176
+gr_value = 423.738126677
+time taken = 2962
+time taken = 0
+10176
+gr_value = 398.674052328
+time taken = 3015
+time taken = 0
+10176
+gr_value = 404.400791295
+time taken = 2872
+time taken = 0
+10176
+gr_value = 416.941242863
+time taken = 2895
+time taken = 0
+10176
+gr_value = 410.440007797
+time taken = 2895
+time taken = 0
+10176
+gr_value = 404.754246426
+time taken = 2931
+time taken = 0
+10176
+gr_value = 399.235519462
+time taken = 3039
+time taken = 0
+10176
+gr_value = 414.435761005
+time taken = 2892
+time taken = 0
+10174
+gr_value = 427.176778395
+time taken = 3316
+time taken = 0
+10176
+gr_value = 414.812005612
+time taken = 2984
+time taken = 0
+10176
+gr_value = 378.038357842
+time taken = 2907
+time taken = 0
+10176
+gr_value = 402.047260903
+time taken = 2882
+time taken = 0
+10176
+gr_value = 431.147306613
+time taken = 2941
+time taken = 0
+10176
+gr_value = 416.438470845
+time taken = 2918
+time taken = 0
+10176
+gr_value = 404.855529788
+time taken = 3006
+time taken = 0
+10176
+gr_value = 398.662764752
+time taken = 3021
+time taken = 0
+10176
+gr_value = 406.398818896
+time taken = 2872
+time taken = 0
+10176
+gr_value = 417.506886171
+time taken = 2909
+time taken = 0
+10176
+gr_value = 426.184232463
+time taken = 2999
+time taken = 0
+10176
+gr_value = 387.218284692
+time taken = 2880
+time taken = 0
+10176
+gr_value = 398.607576446
+time taken = 2884
+time taken = 0
+10176
+gr_value = 432.511271529
+time taken = 2974
+time taken = 0
+10176
+gr_value = 416.386839369
+time taken = 3025
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 3000
+time taken = 0
+10176
+gr_value = 401.976367465
+time taken = 3074
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 3021
+time taken = 0
+10176
+gr_value = 423.274142844
+time taken = 2946
+time taken = 0
+10176
+gr_value = 422.284264448
+time taken = 2934
+time taken = 0
+10176
+gr_value = 425.396285832
+time taken = 2942
+time taken = 0
+10176
+gr_value = 412.586960531
+time taken = 2939
+time taken = 0
+10176
+gr_value = 410.813826447
+time taken = 2895
+time taken = 0
+10174
+gr_value = 404.545423902
+time taken = 2994
+time taken = 0
+10176
+gr_value = 420.163063584
+time taken = 2992
+time taken = 0
+10176
+gr_value = 415.89662177
+time taken = 2936
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2925
+time taken = 0
+10176
+gr_value = 418.498506568
+time taken = 2955
+time taken = 0
+10176
+gr_value = 406.54274068
+time taken = 2935
+time taken = 0
+10176
+gr_value = 401.449872338
+time taken = 2920
+time taken = 0
+10176
+gr_value = 422.452364178
+time taken = 2945
+time taken = 0
+10176
+gr_value = 415.665731087
+time taken = 2889
+time taken = 0
+10176
+gr_value = 392.587569849
+time taken = 2861
+time taken = 0
+10176
+gr_value = 403.495972718
+time taken = 3087
+time taken = 0
+10176
+gr_value = 406.49231235
+time taken = 2942
+time taken = 0
+10176
+gr_value = 421.01425154
+time taken = 2929
+time taken = 0
+10176
+gr_value = 398.015075091
+time taken = 2999
+time taken = 0
+10176
+gr_value = 398.810732052
+time taken = 2932
+time taken = 0
+10176
+gr_value = 423.585882673
+time taken = 2933
+time taken = 0
+10176
+gr_value = 400.844109349
+time taken = 3129
+time taken = 0
+10176
+gr_value = 416.914859414
+time taken = 2928
+time taken = 0
+10176
+gr_value = 421.997630325
+time taken = 2888
+time taken = 0
+10176
+gr_value = 426.432878657
+time taken = 2945
+time taken = 0
+10176
+gr_value = 414.152145956
+time taken = 2930
+time taken = 0
+10176
+gr_value = 398.408082247
+time taken = 2908
+time taken = 0
+10176
+gr_value = 408.959655712
+time taken = 2910
+time taken = 0
+10176
+gr_value = 419.172995313
+time taken = 2943
+time taken = 0
+10176
+gr_value = 406.020935421
+time taken = 2984
+time taken = 0
+10176
+gr_value = 397.3726211
+time taken = 2917
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 2929
+time taken = 0
+10176
+gr_value = 405.878060506
+time taken = 2921
+time taken = 0
+10176
+gr_value = 410.249923827
+time taken = 2951
+time taken = 0
+10176
+gr_value = 400.884023129
+time taken = 3125
+time taken = 0
+10176
+gr_value = 413.456164545
+time taken = 3003
+time taken = 0
+10176
+gr_value = 416.346009948
+time taken = 3003
+time taken = 0
+10176
+gr_value = 408.166632639
+time taken = 3017
+time taken = 0
+10176
+gr_value = 410.931867832
+time taken = 2967
+time taken = 0
+10176
+gr_value = 402.523291252
+time taken = 2998
+time taken = 0
+10176
+gr_value = 418.325232325
+time taken = 3010
+time taken = 0
+10176
+gr_value = 400.202448768
+time taken = 2996
+time taken = 0
+10176
+gr_value = 413.540808144
+time taken = 2832
+time taken = 0
+10176
+gr_value = 410.69818602
+time taken = 2915
+time taken = 0
+10174
+gr_value = 426.184232463
+time taken = 2936
+time taken = 0
+10176
+gr_value = 417.63740254
+time taken = 3009
+time taken = 0
+10176
+gr_value = 423.562274052
+time taken = 2997
+time taken = 0
+10176
+gr_value = 426.957843352
+time taken = 3007
+time taken = 0
+10176
+gr_value = 410.584948579
+time taken = 3075
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 3059
+time taken = 0
+10176
+gr_value = 414.342853203
+time taken = 3059
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 3048
+time taken = 0
+10176
+gr_value = 404.487329839
+time taken = 2868
+time taken = 0
+10176
+gr_value = 421.473605342
+time taken = 2974
+time taken = 0
+10176
+gr_value = 414.342853203
+time taken = 3041
+time taken = 0
+10176
+gr_value = 414.663719175
+time taken = 3062
+time taken = 0
+10176
+gr_value = 394.1383006
+time taken = 3000
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 3003
+time taken = 0
+10176
+gr_value = 423.716886612
+time taken = 2917
+time taken = 0
+10176
+gr_value = 429.075750888
+time taken = 2948
+time taken = 0
+10176
+gr_value = 425.11410233
+time taken = 2982
+time taken = 0
+10176
+gr_value = 403.90345381
+time taken = 2879
+time taken = 0
+10176
+gr_value = 409.067231638
+time taken = 2903
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2968
+time taken = 0
+10176
+gr_value = 421.346650633
+time taken = 2978
+time taken = 0
+10176
+gr_value = 408.765213784
+time taken = 2979
+time taken = 0
+10176
+gr_value = 407.894594227
+time taken = 2857
+time taken = 0
+10176
+gr_value = 431.778878594
+time taken = 2917
+time taken = 0
+10176
+gr_value = 390.755678142
+time taken = 3303
+time taken = 0
+10173
+gr_value = 433.110840317
+time taken = 2973
+time taken = 0
+10176
+gr_value = 429.161974084
+time taken = 3253
+time taken = 0
+10174
+gr_value = 397.159917414
+time taken = 2857
+time taken = 0
+10176
+gr_value = 422.465383197
+time taken = 2899
+time taken = 0
+10176
+gr_value = 408.431144748
+time taken = 2899
+time taken = 0
+10172
+gr_value = 426.184232463
+time taken = 2946
+time taken = 0
+10176
+gr_value = 417.731971484
+time taken = 3046
+time taken = 0
+10176
+gr_value = 413.284405706
+time taken = 2903
+time taken = 0
+10176
+gr_value = 407.461654638
+time taken = 2898
+time taken = 0
+10176
+gr_value = 394.93037361
+time taken = 2911
+time taken = 0
+10176
+gr_value = 413.540808144
+time taken = 2912
+time taken = 0
+10176
+gr_value = 425.944832109
+time taken = 2844
+time taken = 0
+10176
+gr_value = 426.690754528
+time taken = 3025
+time taken = 0
+10176
+gr_value = 409.646188802
+time taken = 2920
+time taken = 0
+10176
+gr_value = 402.203928375
+time taken = 2945
+time taken = 0
+10176
+gr_value = 405.080238965
+time taken = 2977
+time taken = 0
+10176
+gr_value = 431.250507246
+time taken = 2881
+time taken = 0
+10176
+gr_value = 400.535891026
+time taken = 2933
+time taken = 0
+10176
+gr_value = 409.316503454
+time taken = 3008
+time taken = 0
+10176
+gr_value = 415.89662177
+time taken = 3004
+time taken = 0
+10176
+gr_value = 400.202448768
+time taken = 2935
+time taken = 0
+10174
+gr_value = 406.075116204
+time taken = 3004
+time taken = 0
+10176
+gr_value = 419.421029516
+time taken = 2908
+time taken = 0
+10176
+gr_value = 419.752307915
+time taken = 2944
+time taken = 0
+10176
+gr_value = 409.265195197
+time taken = 2981
+time taken = 0
+10176
+gr_value = 416.331598609
+time taken = 3234
+time taken = 0
+10176
+gr_value = 423.585882673
+time taken = 2945
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2950
+time taken = 0
+10176
+gr_value = 411.578668058
+time taken = 2982
+time taken = 0
+10176
+gr_value = 410.059751744
+time taken = 5074
+time taken = 0
+10176
+gr_value = 429.04195599
+time taken = 2908
+time taken = 0
+10176
+gr_value = 399.721152805
+time taken = 3174
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3547
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 3417
+time taken = 0
+10176
+gr_value = 405.652560697
+time taken = 3377
+time taken = 0
+10172
+gr_value = 397.54873915
+time taken = 3036
+time taken = 0
+10176
+gr_value = 422.62158014
+time taken = 3376
+time taken = 0
+10176
+gr_value = 419.033411556
+time taken = 2953
+time taken = 0
+10176
+gr_value = 415.072282862
+time taken = 3428
+time taken = 0
+10176
+gr_value = 418.083723673
+time taken = 2984
+time taken = 0
+10176
+gr_value = 398.898483326
+time taken = 2862
+time taken = 0
+10176
+gr_value = 404.487329839
+time taken = 3023
+time taken = 0
+10176
+gr_value = 424.551528086
+time taken = 2986
+time taken = 0
+10175
+gr_value = 391.739709501
+time taken = 2945
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2837
+time taken = 0
+10176
+gr_value = 426.244061542
+time taken = 3508
+time taken = 0
+10176
+gr_value = 410.69818602
+time taken = 2940
+time taken = 0
+10176
+gr_value = 417.7702718
+time taken = 2941
+time taken = 0
+10176
+gr_value = 418.399330783
+time taken = 2898
+time taken = 0
+10176
+gr_value = 392.940199013
+time taken = 2892
+time taken = 0
+10176
+gr_value = 415.481648211
+time taken = 3527
+time taken = 0
+10176
+gr_value = 428.291956497
+time taken = 2972
+time taken = 0
+10176
+gr_value = 406.184687058
+time taken = 2912
+time taken = 0
+10176
+gr_value = 407.962008035
+time taken = 3066
+time taken = 0
+10174
+gr_value = 425.191721462
+time taken = 2955
+time taken = 0
+10176
+gr_value = 402.412723457
+time taken = 3507
+time taken = 0
+10176
+gr_value = 406.768976201
+time taken = 3535
+time taken = 0
+10176
+gr_value = 403.714007684
+time taken = 3590
+time taken = 0
+10176
+gr_value = 399.361991181
+time taken = 3536
+time taken = 0
+10176
+gr_value = 402.497204959
+time taken = 2956
+time taken = 0
+10176
+gr_value = 405.616814247
+time taken = 3274
+time taken = 0
+10176
+gr_value = 390.600819252
+time taken = 2954
+time taken = 0
+10176
+gr_value = 404.712243452
+time taken = 2976
+time taken = 0
+10176
+gr_value = 416.260735597
+time taken = 2993
+time taken = 0
+10176
+gr_value = 417.480538469
+time taken = 2896
+time taken = 0
+10176
+gr_value = 422.86286193
+time taken = 2933
+time taken = 0
+10176
+gr_value = 410.365690574
+time taken = 3204
+time taken = 0
+10176
+gr_value = 420.415270893
+time taken = 2951
+time taken = 0
+10176
+gr_value = 405.356633102
+time taken = 2871
+time taken = 0
+10176
+gr_value = 407.603974465
+time taken = 2942
+time taken = 0
+9803
+gr_value = 398.393022027
+time taken = 2892
+time taken = 0
+10176
+gr_value = 422.195452368
+time taken = 3020
+time taken = 0
+10176
+gr_value = 406.498462482
+time taken = 2942
+time taken = 0
+10176
+gr_value = 414.903603262
+time taken = 2861
+time taken = 0
+10176
+gr_value = 410.440007797
+time taken = 2930
+time taken = 0
+10176
+gr_value = 414.450238268
+time taken = 2955
+time taken = 0
+10176
+gr_value = 417.627824744
+time taken = 2951
+time taken = 0
+10176
+gr_value = 405.731438269
+time taken = 2947
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 2913
+time taken = 0
+10176
+gr_value = 407.5941609
+time taken = 3058
+time taken = 0
+10176
+gr_value = 401.642876197
+time taken = 3049
+time taken = 0
+10176
+gr_value = 403.090560544
+time taken = 2944
+time taken = 0
+10176
+gr_value = 397.665688739
+time taken = 2949
+time taken = 0
+10176
+gr_value = 397.555027638
+time taken = 2954
+time taken = 0
+10176
+gr_value = 397.4543999
+time taken = 2874
+time taken = 0
+10176
+gr_value = 420.743389728
+time taken = 3027
+time taken = 0
+10176
+gr_value = 431.250507246
+time taken = 2944
+time taken = 0
+10176
+gr_value = 412.883760882
+time taken = 2865
+time taken = 0
+10176
+gr_value = 389.666524095
+time taken = 2916
+time taken = 0
+10176
+gr_value = 418.535542099
+time taken = 3111
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 2967
+time taken = 0
+10176
+gr_value = 434.028800888
+time taken = 3061
+time taken = 0
+10176
+gr_value = 416.889673655
+time taken = 2893
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 3005
+time taken = 0
+10176
+gr_value = 401.876846808
+time taken = 2982
+time taken = 0
+10176
+gr_value = 426.339066941
+time taken = 3114
+time taken = 0
+10176
+gr_value = 421.732142479
+time taken = 2919
+time taken = 0
+10176
+gr_value = 406.262230585
+time taken = 2879
+time taken = 0
+10176
+gr_value = 401.646610841
+time taken = 2957
+time taken = 0
+10176
+gr_value = 417.882758678
+time taken = 2968
+time taken = 0
+10176
+gr_value = 395.464284102
+time taken = 2998
+time taken = 0
+10176
+gr_value = 401.778545968
+time taken = 3050
+time taken = 0
+10176
+gr_value = 411.428000992
+time taken = 3394
+time taken = 0
+10176
+gr_value = 395.216396421
+time taken = 3259
+time taken = 0
+10176
+gr_value = 419.172995313
+time taken = 2925
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2902
+time taken = 0
+10176
+gr_value = 427.05620239
+time taken = 2893
+time taken = 0
+10176
+gr_value = 426.823148388
+time taken = 2935
+time taken = 0
+10176
+gr_value = 423.98584882
+time taken = 2988
+time taken = 0
+10175
+gr_value = 395.050629667
+time taken = 2927
+time taken = 0
+10176
+gr_value = 414.435761005
+time taken = 2958
+time taken = 0
+10176
+gr_value = 394.55544604
+time taken = 2904
+time taken = 0
+10176
+gr_value = 400.649472731
+time taken = 2968
+time taken = 0
+10176
+gr_value = 412.145605339
+time taken = 2919
+time taken = 0
+10176
+gr_value = 422.725679371
+time taken = 3009
+time taken = 0
+10176
+gr_value = 400.404795176
+time taken = 2946
+time taken = 0
+10176
+gr_value = 412.021844081
+time taken = 2909
+time taken = 0
+10176
+gr_value = 407.397839955
+time taken = 2943
+time taken = 0
+10174
+gr_value = 428.169359016
+time taken = 2999
+time taken = 0
+10176
+gr_value = 426.560663915
+time taken = 2945
+time taken = 0
+10174
+gr_value = 398.810732052
+time taken = 3085
+time taken = 0
+10176
+gr_value = 423.042551051
+time taken = 2958
+time taken = 0
+10176
+gr_value = 426.10444729
+time taken = 2945
+time taken = 0
+10176
+gr_value = 418.47819537
+time taken = 2915
+time taken = 0
+10176
+gr_value = 392.940199013
+time taken = 3026
+time taken = 0
+10176
+gr_value = 399.552249399
+time taken = 3012
+time taken = 0
+10176
+gr_value = 415.650093227
+time taken = 2924
+time taken = 0
+10167
+gr_value = 413.793426724
+time taken = 2892
+time taken = 0
+10176
+gr_value = 425.131744286
+time taken = 2896
+time taken = 0
+10176
+gr_value = 403.628542103
+time taken = 2954
+time taken = 0
+10176
+gr_value = 402.497204959
+time taken = 2900
+time taken = 0
+10176
+gr_value = 407.38311207
+time taken = 2901
+time taken = 0
+10176
+gr_value = 399.0050125
+time taken = 2937
+time taken = 0
+10176
+gr_value = 421.741627066
+time taken = 2992
+time taken = 0
+10176
+gr_value = 413.540808144
+time taken = 2951
+time taken = 0
+10176
+gr_value = 426.957843352
+time taken = 2907
+time taken = 0
+10176
+gr_value = 417.633810892
+time taken = 2900
+time taken = 0
+10176
+gr_value = 396.667366946
+time taken = 2961
+time taken = 0
+10176
+gr_value = 386.090662928
+time taken = 2916
+time taken = 0
+10176
+gr_value = 406.470171107
+time taken = 3257
+time taken = 0
+10176
+gr_value = 417.809765324
+time taken = 3023
+time taken = 0
+10176
+gr_value = 400.404795176
+time taken = 3085
+time taken = 0
+10176
+gr_value = 424.703425934
+time taken = 2934
+time taken = 0
+10176
+gr_value = 412.044900466
+time taken = 2946
+time taken = 0
+10176
+gr_value = 425.396285832
+time taken = 2945
+time taken = 0
+10176
+gr_value = 382.79237192
+time taken = 2943
+time taken = 0
+10176
+gr_value = 397.555027638
+time taken = 4354
+time taken = 0
+10176
+gr_value = 416.779318105
+time taken = 2977
+time taken = 0
+10176
+gr_value = 409.498473746
+time taken = 3378
+time taken = 0
+10176
+gr_value = 412.248711338
+time taken = 2861
+time taken = 0
+10176
+gr_value = 424.406644623
+time taken = 2910
+time taken = 0
+10176
+gr_value = 424.12380268
+time taken = 2965
+time taken = 0
+10176
+gr_value = 401.717562474
+time taken = 3123
+time taken = 0
+10176
+gr_value = 416.062495306
+time taken = 2938
+time taken = 0
+10174
+gr_value = 396.425276692
+time taken = 2939
+time taken = 0
+10176
+gr_value = 415.553847293
+time taken = 2969
+time taken = 0
+10176
+gr_value = 416.750524895
+time taken = 2935
+time taken = 0
+10176
+gr_value = 407.338925221
+time taken = 2984
+time taken = 0
+10176
+gr_value = 415.130100089
+time taken = 3022
+time taken = 0
+10176
+gr_value = 417.479340806
+time taken = 2922
+time taken = 0
+10176
+gr_value = 421.099750653
+time taken = 2947
+time taken = 0
+10176
+gr_value = 413.233590116
+time taken = 2975
+time taken = 0
+10176
+gr_value = 399.772435268
+time taken = 2937
+time taken = 0
+10176
+gr_value = 398.898483326
+time taken = 2915
+time taken = 0
+10176
+gr_value = 423.206805238
+time taken = 2935
+time taken = 0
+10176
+gr_value = 408.705272782
+time taken = 2909
+time taken = 0
+10176
+gr_value = 428.654872829
+time taken = 2929
+time taken = 0
+10176
+gr_value = 402.524533414
+time taken = 3023
+time taken = 0
+10176
+gr_value = 427.815380743
+time taken = 2900
+time taken = 0
+10173
+gr_value = 436.479094574
+time taken = 2988
+time taken = 0
+10172
+gr_value = 419.752307915
+time taken = 2944
+time taken = 0
+10176
+gr_value = 400.670687722
+time taken = 2966
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 2928
+time taken = 0
+10176
+gr_value = 399.782440835
+time taken = 2869
+time taken = 0
+10176
+gr_value = 400.844109349
+time taken = 2927
+time taken = 0
+10176
+gr_value = 405.182674852
+time taken = 2942
+time taken = 0
+10176
+gr_value = 414.030192136
+time taken = 8589
+time taken = 0
+10166
+gr_value = 391.829044355
+time taken = 4201
+time taken = 0
+10176
+gr_value = 416.646132827
+time taken = 5213
+time taken = 0
+10176
+gr_value = 409.68280413
+time taken = 5967
+time taken = 0
+10176
+gr_value = 420.979809492
+time taken = 4314
+time taken = 0
+10176
+gr_value = 427.519590194
+time taken = 3319
+time taken = 0
+10176
+gr_value = 415.927878364
+time taken = 3239
+time taken = 0
+10176
+gr_value = 400.391058841
+time taken = 5114
+time taken = 0
+10176
+gr_value = 412.950360213
+time taken = 4674
+time taken = 0
+10176
+gr_value = 422.067530142
+time taken = 3387
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 3467
+time taken = 0
+10176
+gr_value = 389.965383079
+time taken = 4238
+time taken = 0
+10176
+gr_value = 412.00121359
+time taken = 4104
+time taken = 0
+10176
+gr_value = 401.876846808
+time taken = 3429
+time taken = 0
+10176
+gr_value = 404.855529788
+time taken = 4712
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 4809
+time taken = 0
+10176
+gr_value = 422.725679371
+time taken = 3238
+time taken = 0
+10176
+gr_value = 422.800189215
+time taken = 5124
+time taken = 0
+10176
+gr_value = 402.910660072
+time taken = 5349
+time taken = 0
+10176
+gr_value = 409.067231638
+time taken = 3367
+time taken = 0
+10176
+gr_value = 399.452124791
+time taken = 4638
+time taken = 0
+10176
+gr_value = 427.375712927
+time taken = 3238
+time taken = 0
+10176
+gr_value = 407.461654638
+time taken = 4710
+time taken = 0
+10176
+gr_value = 437.597989026
+time taken = 4754
+time taken = 0
+10176
+gr_value = 426.676692591
+time taken = 5196
+time taken = 0
+10176
+gr_value = 416.889673655
+time taken = 3333
+time taken = 0
+10176
+gr_value = 426.690754528
+time taken = 3656
+time taken = 0
+10176
+gr_value = 404.969134626
+time taken = 4629
+time taken = 0
+10176
+gr_value = 425.11410233
+time taken = 3728
+time taken = 0
+10176
+gr_value = 395.920446555
+time taken = 3413
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3240
+time taken = 0
+10176
+gr_value = 416.136996673
+time taken = 3250
+time taken = 0
+10174
+gr_value = 409.316503454
+time taken = 4668
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3487
+time taken = 0
+10173
+gr_value = 399.535980858
+time taken = 4879
+time taken = 0
+10176
+gr_value = 423.98584882
+time taken = 3430
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 4987
+time taken = 0
+10176
+gr_value = 398.027637231
+time taken = 4118
+time taken = 0
+10176
+gr_value = 423.206805238
+time taken = 6340
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 5731
+time taken = 0
+10176
+gr_value = 416.941242863
+time taken = 3250
+time taken = 0
+10176
+gr_value = 407.491104197
+time taken = 3188
+time taken = 0
+10176
+gr_value = 429.917433934
+time taken = 3299
+time taken = 0
+10176
+gr_value = 399.662357497
+time taken = 3191
+time taken = 0
+10176
+gr_value = 409.274968695
+time taken = 3143
+time taken = 0
+10176
+gr_value = 424.004716955
+time taken = 3186
+time taken = 0
+10176
+gr_value = 402.359292176
+time taken = 3252
+time taken = 0
+10176
+gr_value = 424.848208187
+time taken = 3347
+time taken = 0
+10176
+gr_value = 412.243859869
+time taken = 6052
+time taken = 0
+10176
+gr_value = 431.78930047
+time taken = 6019
+time taken = 0
+10176
+gr_value = 411.111906906
+time taken = 4469
+time taken = 0
+10176
+gr_value = 413.540808144
+time taken = 5957
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 6043
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 6016
+time taken = 0
+10176
+gr_value = 416.386839369
+time taken = 6007
+time taken = 0
+10176
+gr_value = 416.386839369
+time taken = 4898
+time taken = 0
+10176
+gr_value = 428.924235734
+time taken = 5941
+time taken = 0
+10176
+gr_value = 402.990074319
+time taken = 6061
+time taken = 0
+10176
+gr_value = 424.698716739
+time taken = 4390
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 3115
+time taken = 0
+10176
+gr_value = 411.428000992
+time taken = 4783
+time taken = 0
+10176
+gr_value = 412.044900466
+time taken = 4690
+time taken = 0
+10176
+gr_value = 421.438014422
+time taken = 3425
+time taken = 0
+10176
+gr_value = 417.873186505
+time taken = 3234
+time taken = 0
+10176
+gr_value = 412.75779823
+time taken = 3518
+time taken = 0
+10176
+gr_value = 430.034882306
+time taken = 4745
+time taken = 0
+10176
+gr_value = 421.199477682
+time taken = 5222
+time taken = 0
+10176
+gr_value = 412.167441703
+time taken = 5472
+time taken = 0
+10176
+gr_value = 419.237402912
+time taken = 4641
+time taken = 0
+10176
+gr_value = 415.530985608
+time taken = 5185
+time taken = 0
+10176
+gr_value = 412.167441703
+time taken = 4841
+time taken = 0
+10176
+gr_value = 417.7702718
+time taken = 3276
+time taken = 0
+10176
+gr_value = 399.981249561
+time taken = 3445
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 5088
+time taken = 0
+10176
+gr_value = 414.654072692
+time taken = 4722
+time taken = 0
+10176
+gr_value = 416.923254329
+time taken = 4939
+time taken = 0
+10176
+gr_value = 417.766681295
+time taken = 3410
+time taken = 0
+10176
+gr_value = 417.766681295
+time taken = 5501
+time taken = 0
+10176
+gr_value = 414.695068695
+time taken = 5493
+time taken = 0
+10176
+gr_value = 411.25417931
+time taken = 3829
+time taken = 0
+10176
+gr_value = 414.030192136
+time taken = 5057
+time taken = 0
+10176
+gr_value = 427.23412785
+time taken = 4789
+time taken = 0
+10176
+gr_value = 415.924271953
+time taken = 4483
+time taken = 0
+10176
+gr_value = 420.481866434
+time taken = 3348
+time taken = 0
+10176
+gr_value = 409.176001251
+time taken = 4738
+time taken = 0
+10176
+gr_value = 416.015624707
+time taken = 3390
+time taken = 0
+10176
+gr_value = 410.264548797
+time taken = 3296
+time taken = 0
+10176
+gr_value = 406.970514902
+time taken = 3618
+time taken = 0
+10176
+gr_value = 410.121933088
+time taken = 4667
+time taken = 0
+10176
+gr_value = 396.667366946
+time taken = 5208
+time taken = 0
+10176
+gr_value = 417.541614692
+time taken = 4770
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 4445
+time taken = 0
+10176
+gr_value = 401.876846808
+time taken = 4550
+time taken = 0
+10174
+gr_value = 405.345531615
+time taken = 5013
+time taken = 0
+10176
+gr_value = 434.028800888
+time taken = 5216
+time taken = 0
+10176
+gr_value = 411.690417668
+time taken = 5167
+time taken = 0
+10176
+gr_value = 413.566197845
+time taken = 4803
+time taken = 0
+10176
+gr_value = 407.397839955
+time taken = 4782
+time taken = 0
+10176
+gr_value = 402.412723457
+time taken = 4732
+time taken = 0
+10176
+gr_value = 418.498506568
+time taken = 3457
+time taken = 0
+10176
+gr_value = 420.481866434
+time taken = 4816
+time taken = 0
+10176
+gr_value = 404.712243452
+time taken = 2948
+time taken = 0
+10176
+gr_value = 418.646629032
+time taken = 2936
+time taken = 0
+10176
+gr_value = 417.052754457
+time taken = 2966
+time taken = 0
+10176
+gr_value = 422.001184832
+time taken = 2931
+time taken = 0
+10173
+gr_value = 418.917653006
+time taken = 2927
+time taken = 0
+10176
+gr_value = 424.12380268
+time taken = 3041
+time taken = 0
+10176
+gr_value = 405.764710146
+time taken = 2976
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2935
+time taken = 0
+10176
+gr_value = 399.99249993
+time taken = 2944
+time taken = 0
+10176
+gr_value = 418.083723673
+time taken = 2975
+time taken = 0
+10176
+gr_value = 420.594816896
+time taken = 2961
+time taken = 0
+10176
+gr_value = 412.462119473
+time taken = 3438
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 2946
+time taken = 0
+10176
+gr_value = 404.348859279
+time taken = 3101
+time taken = 0
+10176
+gr_value = 402.30461096
+time taken = 3035
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 2919
+time taken = 0
+10176
+gr_value = 420.575795785
+time taken = 3102
+time taken = 0
+10176
+gr_value = 421.473605342
+time taken = 3433
+time taken = 0
+10176
+gr_value = 406.708740993
+time taken = 2986
+time taken = 0
+10176
+gr_value = 408.770106539
+time taken = 2877
+time taken = 0
+10176
+gr_value = 411.428000992
+time taken = 2987
+time taken = 0
+10176
+gr_value = 427.23412785
+time taken = 3181
+time taken = 0
+10176
+gr_value = 406.708740993
+time taken = 3000
+time taken = 0
+10176
+gr_value = 425.569030828
+time taken = 2914
+time taken = 0
+10176
+gr_value = 420.415270893
+time taken = 2888
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 3407
+time taken = 0
+10176
+gr_value = 414.152145956
+time taken = 3384
+time taken = 0
+10176
+gr_value = 400.281151193
+time taken = 2969
+time taken = 0
+10176
+gr_value = 425.315177251
+time taken = 2930
+time taken = 0
+10176
+gr_value = 395.790348543
+time taken = 2987
+time taken = 0
+10176
+gr_value = 422.800189215
+time taken = 3170
+time taken = 0
+10175
+gr_value = 409.568065161
+time taken = 3341
+time taken = 0
+10176
+gr_value = 424.551528086
+time taken = 3035
+time taken = 0
+10173
+gr_value = 396.137602356
+time taken = 2943
+time taken = 0
+10176
+gr_value = 403.298896602
+time taken = 2979
+time taken = 0
+10176
+gr_value = 420.743389728
+time taken = 2972
+time taken = 0
+10176
+gr_value = 411.486330271
+time taken = 2937
+time taken = 0
+10176
+gr_value = 416.015624707
+time taken = 3004
+time taken = 0
+10176
+gr_value = 419.114542816
+time taken = 2867
+time taken = 0
+10176
+gr_value = 411.407340722
+time taken = 2930
+time taken = 0
+10176
+gr_value = 422.465383197
+time taken = 3164
+time taken = 0
+10176
+gr_value = 431.056840799
+time taken = 2997
+time taken = 0
+10176
+gr_value = 407.767090384
+time taken = 3073
+time taken = 0
+10176
+gr_value = 411.407340722
+time taken = 2911
+time taken = 0
+10176
+gr_value = 425.0
+time taken = 2895
+time taken = 0
+10176
+gr_value = 411.952667184
+time taken = 3074
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3005
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 3455
+time taken = 0
+10176
+gr_value = 421.732142479
+time taken = 2928
+time taken = 0
+10173
+gr_value = 398.408082247
+time taken = 3015
+time taken = 0
+10176
+gr_value = 418.043059983
+time taken = 2942
+time taken = 0
+10176
+gr_value = 413.943232823
+time taken = 3054
+time taken = 0
+10176
+gr_value = 417.938990763
+time taken = 3042
+time taken = 0
+10176
+gr_value = 404.73818698
+time taken = 3186
+time taken = 0
+10176
+gr_value = 412.641490885
+time taken = 2958
+time taken = 0
+10176
+gr_value = 415.337212395
+time taken = 3542
+time taken = 0
+10176
+gr_value = 423.417052089
+time taken = 2944
+time taken = 0
+10176
+gr_value = 416.547716354
+time taken = 3013
+time taken = 0
+10176
+gr_value = 423.738126677
+time taken = 2973
+time taken = 0
+10176
+gr_value = 416.515305841
+time taken = 2956
+time taken = 0
+10176
+gr_value = 410.365690574
+time taken = 2976
+time taken = 0
+10176
+gr_value = 397.287049877
+time taken = 2980
+time taken = 0
+10176
+gr_value = 417.306841545
+time taken = 3163
+time taken = 0
+10172
+gr_value = 397.159917414
+time taken = 3031
+time taken = 0
+10176
+gr_value = 398.406827251
+time taken = 3289
+time taken = 0
+10176
+gr_value = 423.274142844
+time taken = 2947
+time taken = 0
+10176
+gr_value = 417.918652371
+time taken = 3075
+time taken = 0
+10176
+gr_value = 415.8004329
+time taken = 3009
+time taken = 0
+10176
+gr_value = 405.833709788
+time taken = 2909
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 3298
+time taken = 0
+10176
+gr_value = 413.533553657
+time taken = 2963
+time taken = 0
+10175
+gr_value = 398.278796825
+time taken = 2944
+time taken = 0
+10176
+gr_value = 394.93037361
+time taken = 3026
+time taken = 0
+10176
+gr_value = 420.746954832
+time taken = 2925
+time taken = 0
+10176
+gr_value = 421.740441504
+time taken = 3316
+time taken = 0
+10176
+gr_value = 429.57886354
+time taken = 2931
+time taken = 0
+10176
+gr_value = 421.868462912
+time taken = 2894
+time taken = 0
+10176
+gr_value = 400.604543159
+time taken = 2939
+time taken = 0
+10176
+gr_value = 413.672575837
+time taken = 3053
+time taken = 0
+10176
+gr_value = 394.93037361
+time taken = 2972
+time taken = 0
+10175
+gr_value = 426.063375568
+time taken = 3265
+time taken = 0
+10176
+gr_value = 400.08124175
+time taken = 3256
+time taken = 0
+10176
+gr_value = 426.063375568
+time taken = 3082
+time taken = 0
+10176
+gr_value = 401.627937275
+time taken = 2956
+time taken = 0
+10174
+gr_value = 420.611459663
+time taken = 3341
+time taken = 0
+10176
+gr_value = 419.525922918
+time taken = 2936
+time taken = 0
+10176
+gr_value = 419.986904558
+time taken = 2890
+time taken = 0
+10176
+gr_value = 426.244061542
+time taken = 3058
+time taken = 0
+10176
+gr_value = 417.766681295
+time taken = 3388
+time taken = 0
+10176
+gr_value = 407.354882136
+time taken = 3419
+time taken = 0
+10176
+gr_value = 416.309980663
+time taken = 3356
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 3812
+time taken = 0
+10176
+gr_value = 402.601539987
+time taken = 3447
+time taken = 0
+10176
+gr_value = 429.284288089
+time taken = 3911
+time taken = 0
+10176
+gr_value = 419.62006625
+time taken = 3470
+time taken = 0
+10176
+gr_value = 421.143680945
+time taken = 2909
+time taken = 0
+10176
+gr_value = 411.170281027
+time taken = 3256
+time taken = 0
+10176
+gr_value = 423.585882673
+time taken = 3628
+time taken = 0
+10176
+gr_value = 416.515305841
+time taken = 3723
+time taken = 0
+10176
+gr_value = 414.450238268
+time taken = 3492
+time taken = 0
+10176
+gr_value = 403.279059709
+time taken = 3182
+time taken = 0
+10176
+gr_value = 413.672575837
+time taken = 3527
+time taken = 0
+10176
+gr_value = 413.52388081
+time taken = 3028
+time taken = 0
+10176
+gr_value = 426.823148388
+time taken = 3205
+time taken = 0
+10176
+gr_value = 420.594816896
+time taken = 3433
+time taken = 0
+10176
+gr_value = 409.37146945
+time taken = 3259
+time taken = 0
+10176
+gr_value = 424.551528086
+time taken = 3404
+time taken = 0
+10176
+gr_value = 413.881625589
+time taken = 3454
+time taken = 0
+10176
+gr_value = 392.998727733
+time taken = 3322
+time taken = 0
+10176
+gr_value = 418.498506568
+time taken = 2924
+time taken = 0
+10176
+gr_value = 402.196469403
+time taken = 3211
+time taken = 0
+10176
+gr_value = 418.216451135
+time taken = 3308
+time taken = 0
+10176
+gr_value = 420.611459663
+time taken = 3430
+time taken = 0
+10176
+gr_value = 431.147306613
+time taken = 3435
+time taken = 0
+10176
+gr_value = 410.308420581
+time taken = 2936
+time taken = 0
+10176
+gr_value = 392.328943617
+time taken = 3301
+time taken = 0
+10176
+gr_value = 402.318281961
+time taken = 3222
+time taken = 0
+10176
+gr_value = 432.261494931
+time taken = 3695
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 3422
+time taken = 0
+10176
+gr_value = 415.144553138
+time taken = 3225
+time taken = 0
+10176
+gr_value = 402.776613025
+time taken = 3417
+time taken = 0
+10176
+gr_value = 415.654904939
+time taken = 3325
+time taken = 0
+10176
+gr_value = 421.972747935
+time taken = 2970
+time taken = 0
+10176
+gr_value = 423.709806353
+time taken = 3071
+time taken = 0
+10176
+gr_value = 423.571717658
+time taken = 2969
+time taken = 0
+10176
+gr_value = 414.237854378
+time taken = 3172
+time taken = 0
+10176
+gr_value = 422.995271841
+time taken = 3523
+time taken = 0
+10176
+gr_value = 408.959655712
+time taken = 3435
+time taken = 0
+10176
+gr_value = 401.529575498
+time taken = 3414
+time taken = 0
+10176
+gr_value = 429.664985774
+time taken = 3033
+time taken = 0
+10176
+gr_value = 414.663719175
+time taken = 3093
+time taken = 0
+10176
+gr_value = 399.500938672
+time taken = 3408
+time taken = 0
+10172
+gr_value = 397.555027638
+time taken = 3027
+time taken = 0
+10174
+gr_value = 407.276318978
+time taken = 2979
+time taken = 0
+10176
+gr_value = 426.10444729
+time taken = 2904
+time taken = 0
+10176
+gr_value = 429.535795947
+time taken = 2965
+time taken = 0
+10176
+gr_value = 414.13524361
+time taken = 2984
+time taken = 0
+10176
+gr_value = 399.552249399
+time taken = 2978
+time taken = 0
+10176
+gr_value = 405.356633102
+time taken = 2909
+time taken = 0
+10176
+gr_value = 408.705272782
+time taken = 2920
+time taken = 0
+10176
+gr_value = 427.271576401
+time taken = 2984
+time taken = 0
+10176
+gr_value = 398.502195728
+time taken = 2997
+time taken = 0
+10176
+gr_value = 403.744969009
+time taken = 4761
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 2969
+time taken = 0
+10176
+gr_value = 418.807831827
+time taken = 2954
+time taken = 0
+10176
+gr_value = 417.378724901
+time taken = 3131
+time taken = 0
+10176
+gr_value = 423.6153916
+time taken = 3184
+time taken = 0
+10176
+gr_value = 419.886889531
+time taken = 2943
+time taken = 0
+10176
+gr_value = 420.743389728
+time taken = 2907
+time taken = 0
+10176
+gr_value = 426.620440204
+time taken = 2952
+time taken = 0
+10176
+gr_value = 413.284405706
+time taken = 2981
+time taken = 0
+10176
+gr_value = 426.141995114
+time taken = 2964
+time taken = 0
+10176
+gr_value = 418.114816767
+time taken = 2918
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2998
+time taken = 0
+10176
+gr_value = 425.396285832
+time taken = 2962
+time taken = 0
+10176
+gr_value = 412.021844081
+time taken = 3008
+time taken = 0
+10176
+gr_value = 413.67861922
+time taken = 2950
+time taken = 0
+10176
+gr_value = 427.665757339
+time taken = 2942
+time taken = 0
+10176
+gr_value = 413.400532172
+time taken = 2956
+time taken = 0
+10176
+gr_value = 423.042551051
+time taken = 2992
+time taken = 0
+10176
+gr_value = 397.905767739
+time taken = 2975
+time taken = 0
+10176
+gr_value = 426.10444729
+time taken = 2989
+time taken = 0
+10176
+gr_value = 421.473605342
+time taken = 2916
+time taken = 0
+10176
+gr_value = 419.49016675
+time taken = 2969
+time taken = 0
+10173
+gr_value = 402.198955742
+time taken = 2979
+time taken = 0
+10176
+gr_value = 430.921106468
+time taken = 3003
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 3063
+time taken = 0
+10176
+gr_value = 414.786692168
+time taken = 2974
+time taken = 0
+10176
+gr_value = 399.809954854
+time taken = 3035
+time taken = 0
+10176
+gr_value = 409.859732104
+time taken = 3083
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 2950
+time taken = 0
+10175
+gr_value = 420.229699093
+time taken = 2924
+time taken = 0
+10176
+gr_value = 427.23412785
+time taken = 2964
+time taken = 0
+10176
+gr_value = 418.01554995
+time taken = 3062
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 2921
+time taken = 0
+10176
+gr_value = 426.976580154
+time taken = 2969
+time taken = 0
+10176
+gr_value = 404.598566483
+time taken = 2923
+time taken = 0
+10176
+gr_value = 423.585882673
+time taken = 3099
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 2969
+time taken = 0
+10020
+gr_value = 400.08124175
+time taken = 2893
+time taken = 0
+10176
+gr_value = 418.043059983
+time taken = 2987
+time taken = 0
+10176
+gr_value = 402.30461096
+time taken = 2901
+time taken = 0
+10176
+gr_value = 404.619574415
+time taken = 3013
+time taken = 0
+10176
+gr_value = 402.637554135
+time taken = 2984
+time taken = 0
+10176
+gr_value = 423.133548658
+time taken = 2945
+time taken = 0
+10176
+gr_value = 399.270584942
+time taken = 3065
+time taken = 0
+10176
+gr_value = 426.976580154
+time taken = 2974
+time taken = 0
+10176
+gr_value = 406.498462482
+time taken = 2943
+time taken = 0
+10176
+gr_value = 421.428523002
+time taken = 4081
+time taken = 0
+10176
+gr_value = 421.099750653
+time taken = 3004
+time taken = 0
+10176
+gr_value = 397.134737841
+time taken = 2863
+time taken = 0
+10176
+gr_value = 416.491296428
+time taken = 3016
+time taken = 0
+10176
+gr_value = 434.622824987
+time taken = 2991
+time taken = 0
+10176
+gr_value = 404.969134626
+time taken = 2913
+time taken = 0
+10176
+gr_value = 421.602893728
+time taken = 2917
+time taken = 0
+10175
+gr_value = 406.724722632
+time taken = 3049
+time taken = 0
+10176
+gr_value = 418.628713779
+time taken = 2969
+time taken = 0
+10176
+gr_value = 407.541408939
+time taken = 2932
+time taken = 0
+10176
+gr_value = 425.687678938
+time taken = 2984
+time taken = 0
+10175
+gr_value = 417.008393201
+time taken = 3091
+time taken = 0
+10175
+gr_value = 421.868462912
+time taken = 3106
+time taken = 0
+10176
+gr_value = 413.793426724
+time taken = 2950
+time taken = 0
+10176
+gr_value = 406.177301188
+time taken = 2928
+time taken = 0
+10176
+gr_value = 409.704771756
+time taken = 2929
+time taken = 0
+10176
+gr_value = 422.725679371
+time taken = 3010
+time taken = 0
+10176
+gr_value = 395.464284102
+time taken = 3011
+time taken = 0
+10176
+gr_value = 409.568065161
+time taken = 2935
+time taken = 0
+10176
+gr_value = 412.167441703
+time taken = 2887
+time taken = 0
+10176
+gr_value = 411.170281027
+time taken = 2888
+time taken = 0
+10176
+gr_value = 415.268587784
+time taken = 2939
+time taken = 0
+10176
+gr_value = 406.735786476
+time taken = 2959
+time taken = 0
+10176
+gr_value = 402.203928375
+time taken = 2973
+time taken = 0
+10176
+gr_value = 408.584140661
+time taken = 2961
+time taken = 0
+10176
+gr_value = 407.397839955
+time taken = 2947
+time taken = 0
+10176
+gr_value = 409.332383278
+time taken = 2920
+time taken = 0
+10176
+gr_value = 401.778545968
+time taken = 2869
+time taken = 0
+10176
+gr_value = 410.264548797
+time taken = 2949
+time taken = 0
+10176
+gr_value = 430.921106468
+time taken = 2965
+time taken = 0
+10176
+gr_value = 433.132774101
+time taken = 2966
+time taken = 0
+10176
+gr_value = 396.969772149
+time taken = 2934
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2997
+time taken = 0
+10176
+gr_value = 426.385975379
+time taken = 2947
+time taken = 0
+10176
+gr_value = 426.10444729
+time taken = 2985
+time taken = 0
+10176
+gr_value = 414.96505877
+time taken = 3108
+time taken = 0
+10176
+gr_value = 406.262230585
+time taken = 2988
+time taken = 0
+10176
+gr_value = 405.478729405
+time taken = 2973
+time taken = 0
+10171
+gr_value = 413.540808144
+time taken = 3010
+time taken = 0
+10176
+gr_value = 423.716886612
+time taken = 3010
+time taken = 0
+10176
+gr_value = 421.099750653
+time taken = 2862
+time taken = 0
+10176
+gr_value = 420.023808849
+time taken = 3007
+time taken = 0
+10176
+gr_value = 416.515305841
+time taken = 2989
+time taken = 0
+10176
+gr_value = 402.973944567
+time taken = 2963
+time taken = 0
+10176
+gr_value = 394.143374928
+time taken = 2998
+time taken = 0
+10176
+gr_value = 407.397839955
+time taken = 2884
+time taken = 0
+10176
+gr_value = 418.896168519
+time taken = 2959
+time taken = 0
+10176
+gr_value = 413.140411967
+time taken = 2964
+time taken = 0
+10176
+gr_value = 426.385975379
+time taken = 2964
+time taken = 0
+10176
+gr_value = 419.36261159
+time taken = 3008
+time taken = 0
+10176
+gr_value = 423.206805238
+time taken = 2989
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2977
+time taken = 0
+9810
+gr_value = 397.915820243
+time taken = 2889
+time taken = 0
+10176
+gr_value = 418.399330783
+time taken = 3010
+time taken = 0
+10176
+gr_value = 413.456164545
+time taken = 3316
+time taken = 0
+10176
+gr_value = 409.763346335
+time taken = 3032
+time taken = 0
+10176
+gr_value = 424.551528086
+time taken = 2938
+time taken = 0
+10176
+gr_value = 405.597090719
+time taken = 3022
+time taken = 0
+10176
+gr_value = 414.786692168
+time taken = 3028
+time taken = 0
+10176
+gr_value = 432.511271529
+time taken = 2942
+time taken = 0
+10176
+gr_value = 421.855425472
+time taken = 2945
+time taken = 0
+10176
+gr_value = 417.346378923
+time taken = 3022
+time taken = 0
+10176
+gr_value = 409.939019855
+time taken = 3009
+time taken = 0
+10176
+gr_value = 429.796463457
+time taken = 3003
+time taken = 0
+10176
+gr_value = 402.839918578
+time taken = 2860
+time taken = 0
+10176
+gr_value = 423.133548658
+time taken = 3012
+time taken = 0
+10176
+gr_value = 411.825205639
+time taken = 2965
+time taken = 0
+10176
+gr_value = 394.55544604
+time taken = 3028
+time taken = 0
+10176
+gr_value = 429.644038711
+time taken = 2993
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2887
+time taken = 0
+10176
+gr_value = 427.815380743
+time taken = 2922
+time taken = 0
+10176
+gr_value = 415.779989899
+time taken = 2958
+time taken = 0
+10176
+gr_value = 401.920390127
+time taken = 3011
+time taken = 0
+10176
+gr_value = 423.133548658
+time taken = 3128
+time taken = 0
+10176
+gr_value = 426.385975379
+time taken = 2953
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 2999
+time taken = 0
+10176
+gr_value = 415.788407727
+time taken = 2919
+time taken = 0
+10176
+gr_value = 413.284405706
+time taken = 2955
+time taken = 0
+10176
+gr_value = 403.495972718
+time taken = 2932
+time taken = 0
+10176
+gr_value = 424.004716955
+time taken = 2997
+time taken = 0
+10147
+gr_value = 404.623281584
+time taken = 2948
+time taken = 0
+10176
+gr_value = 431.147306613
+time taken = 3057
+time taken = 0
+10176
+gr_value = 421.099750653
+time taken = 2957
+time taken = 0
+10176
+gr_value = 410.834516564
+time taken = 2905
+time taken = 0
+10176
+gr_value = 427.422507596
+time taken = 2949
+time taken = 0
+10176
+gr_value = 409.939019855
+time taken = 2941
+time taken = 0
+10176
+gr_value = 419.49016675
+time taken = 3026
+time taken = 0
+10176
+gr_value = 399.782440835
+time taken = 2994
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2921
+time taken = 0
+10176
+gr_value = 426.141995114
+time taken = 2955
+time taken = 0
+10176
+gr_value = 418.61676985
+time taken = 3136
+time taken = 0
+10176
+gr_value = 428.085271879
+time taken = 3033
+time taken = 0
+10176
+gr_value = 419.754690266
+time taken = 3080
+time taken = 0
+10176
+gr_value = 399.656102168
+time taken = 2936
+time taken = 0
+10176
+gr_value = 413.910618371
+time taken = 2986
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 2984
+time taken = 0
+10176
+gr_value = 422.995271841
+time taken = 2969
+time taken = 0
+10176
+gr_value = 414.450238268
+time taken = 2933
+time taken = 0
+10176
+gr_value = 400.004999969
+time taken = 2969
+time taken = 0
+10176
+gr_value = 417.432629295
+time taken = 3112
+time taken = 0
+10176
+gr_value = 416.136996673
+time taken = 2948
+time taken = 0
+10176
+gr_value = 412.161376162
+time taken = 2925
+time taken = 0
+10176
+gr_value = 429.930226897
+time taken = 2902
+time taken = 0
+10176
+gr_value = 397.404076476
+time taken = 2971
+time taken = 0
+10176
+gr_value = 428.673535456
+time taken = 3049
+time taken = 0
+10176
+gr_value = 421.602893728
+time taken = 2899
+time taken = 0
+10176
+gr_value = 419.421029516
+time taken = 2970
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2915
+time taken = 0
+10176
+gr_value = 400.08124175
+time taken = 2973
+time taken = 0
+10176
+gr_value = 408.001225488
+time taken = 2945
+time taken = 0
+10176
+gr_value = 409.034228397
+time taken = 2964
+time taken = 0
+10176
+gr_value = 404.980246432
+time taken = 3074
+time taken = 0
+10176
+gr_value = 425.11410233
+time taken = 3039
+time taken = 0
+10162
+gr_value = 411.690417668
+time taken = 2963
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2940
+time taken = 0
+10176
+gr_value = 419.49016675
+time taken = 2952
+time taken = 0
+10176
+gr_value = 407.953428715
+time taken = 2912
+time taken = 0
+10176
+gr_value = 430.527583321
+time taken = 2971
+time taken = 0
+10176
+gr_value = 408.584140661
+time taken = 2920
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 3011
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2967
+time taken = 0
+10176
+gr_value = 392.328943617
+time taken = 2980
+time taken = 0
+10176
+gr_value = 395.641251641
+time taken = 3005
+time taken = 0
+10176
+gr_value = 431.250507246
+time taken = 2921
+time taken = 0
+10176
+gr_value = 420.86221023
+time taken = 2974
+time taken = 0
+10176
+gr_value = 414.663719175
+time taken = 3105
+time taken = 0
+10176
+gr_value = 400.660704337
+time taken = 2974
+time taken = 0
+10176
+gr_value = 418.043059983
+time taken = 3070
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 2976
+time taken = 0
+10176
+gr_value = 429.644038711
+time taken = 3029
+time taken = 0
+10176
+gr_value = 424.609232118
+time taken = 3097
+time taken = 0
+10176
+gr_value = 410.931867832
+time taken = 3034
+time taken = 0
+10176
+gr_value = 401.04987221
+time taken = 2957
+time taken = 0
+10176
+gr_value = 424.042450705
+time taken = 3101
+time taken = 0
+10176
+gr_value = 409.703551364
+time taken = 2932
+time taken = 0
+10175
+gr_value = 416.386839369
+time taken = 2996
+time taken = 0
+10176
+gr_value = 418.761268505
+time taken = 2973
+time taken = 0
+10176
+gr_value = 424.976469937
+time taken = 2970
+time taken = 0
+10174
+gr_value = 425.070582374
+time taken = 2918
+time taken = 0
+10176
+gr_value = 401.179510942
+time taken = 3030
+time taken = 0
+10175
+gr_value = 417.7702718
+time taken = 3025
+time taken = 0
+10176
+gr_value = 419.49016675
+time taken = 3051
+time taken = 0
+10176
+gr_value = 426.10444729
+time taken = 2988
+time taken = 0
+10176
+gr_value = 426.620440204
+time taken = 2982
+time taken = 0
+10176
+gr_value = 422.473667818
+time taken = 3072
+time taken = 0
+10176
+gr_value = 398.015075091
+time taken = 2991
+time taken = 0
+10125
+gr_value = 410.308420581
+time taken = 2931
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 3016
+time taken = 0
+10176
+gr_value = 412.243859869
+time taken = 2971
+time taken = 0
+10176
+gr_value = 417.766681295
+time taken = 3086
+time taken = 0
+10176
+gr_value = 418.760074506
+time taken = 2925
+time taken = 0
+10176
+gr_value = 411.695275659
+time taken = 2988
+time taken = 0
+10176
+gr_value = 418.370649066
+time taken = 2989
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 2994
+time taken = 0
+10176
+gr_value = 423.716886612
+time taken = 2845
+time taken = 0
+10176
+gr_value = 423.178449357
+time taken = 3003
+time taken = 0
+10176
+gr_value = 418.245143427
+time taken = 2973
+time taken = 0
+10175
+gr_value = 415.268587784
+time taken = 2975
+time taken = 0
+10176
+gr_value = 409.132008037
+time taken = 3066
+time taken = 0
+10176
+gr_value = 424.406644623
+time taken = 2872
+time taken = 0
+10176
+gr_value = 424.004716955
+time taken = 2941
+time taken = 0
+10175
+gr_value = 419.752307915
+time taken = 2951
+time taken = 0
+10176
+gr_value = 407.953428715
+time taken = 2955
+time taken = 0
+10176
+gr_value = 417.748728304
+time taken = 3006
+time taken = 0
+10176
+gr_value = 405.744993808
+time taken = 2994
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 2955
+time taken = 0
+10176
+gr_value = 398.914777866
+time taken = 3011
+time taken = 0
+10176
+gr_value = 403.628542103
+time taken = 3016
+time taken = 0
+10176
+gr_value = 423.716886612
+time taken = 3149
+time taken = 0
+10176
+gr_value = 398.539834897
+time taken = 3000
+time taken = 0
+10176
+gr_value = 423.018912107
+time taken = 3168
+time taken = 0
+10176
+gr_value = 420.304651414
+time taken = 3015
+time taken = 0
+10176
+gr_value = 418.638268676
+time taken = 2973
+time taken = 0
+10176
+gr_value = 415.665731087
+time taken = 2915
+time taken = 0
+10176
+gr_value = 394.807548053
+time taken = 3139
+time taken = 0
+10176
+gr_value = 428.673535456
+time taken = 2949
+time taken = 0
+10176
+gr_value = 411.246884487
+time taken = 3039
+time taken = 0
+10176
+gr_value = 398.898483326
+time taken = 2977
+time taken = 0
+10176
+gr_value = 403.338567459
+time taken = 2893
+time taken = 0
+10176
+gr_value = 401.78227935
+time taken = 3099
+time taken = 0
+10176
+gr_value = 406.020935421
+time taken = 2956
+time taken = 0
+10176
+gr_value = 411.35143126
+time taken = 3336
+time taken = 0
+10176
+gr_value = 409.765786761
+time taken = 3097
+time taken = 0
+10176
+gr_value = 398.027637231
+time taken = 2881
+time taken = 0
+10176
+gr_value = 409.441082453
+time taken = 2977
+time taken = 0
+10176
+gr_value = 424.976469937
+time taken = 3043
+time taken = 0
+10176
+gr_value = 420.743389728
+time taken = 3062
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 3219
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 3440
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3819
+time taken = 0
+10176
+gr_value = 412.883760882
+time taken = 3056
+time taken = 0
+10176
+gr_value = 426.057507855
+time taken = 2979
+time taken = 0
+10176
+gr_value = 424.077823047
+time taken = 2951
+time taken = 0
+10176
+gr_value = 400.522159187
+time taken = 3264
+time taken = 0
+10176
+gr_value = 421.438014422
+time taken = 3548
+time taken = 0
+10176
+gr_value = 417.63740254
+time taken = 2976
+time taken = 0
+10176
+gr_value = 406.34098981
+time taken = 2966
+time taken = 0
+10176
+gr_value = 414.812005612
+time taken = 3202
+time taken = 0
+10173
+gr_value = 433.110840317
+time taken = 3326
+time taken = 0
+10176
+gr_value = 423.716886612
+time taken = 3029
+time taken = 0
+10176
+gr_value = 404.190549123
+time taken = 3021
+time taken = 0
+10176
+gr_value = 422.427508574
+time taken = 2974
+time taken = 0
+10176
+gr_value = 427.422507596
+time taken = 2885
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 3418
+time taken = 0
+10176
+gr_value = 415.393789072
+time taken = 2988
+time taken = 0
+10176
+gr_value = 413.961350853
+time taken = 2998
+time taken = 0
+10176
+gr_value = 420.107129194
+time taken = 2904
+time taken = 0
+10173
+gr_value = 406.601770778
+time taken = 3068
+time taken = 0
+10176
+gr_value = 418.498506568
+time taken = 3607
+time taken = 0
+10176
+gr_value = 408.959655712
+time taken = 2977
+time taken = 0
+10176
+gr_value = 422.284264448
+time taken = 2926
+time taken = 0
+10176
+gr_value = 401.529575498
+time taken = 2944
+time taken = 0
+10176
+gr_value = 423.562274052
+time taken = 2951
+time taken = 0
+10176
+gr_value = 424.551528086
+time taken = 2945
+time taken = 0
+10176
+gr_value = 418.535542099
+time taken = 2975
+time taken = 0
+10176
+gr_value = 399.891235213
+time taken = 2950
+time taken = 0
+10176
+gr_value = 418.182974307
+time taken = 3038
+time taken = 0
+10176
+gr_value = 423.98584882
+time taken = 2964
+time taken = 0
+10176
+gr_value = 408.104153373
+time taken = 2950
+time taken = 0
+10176
+gr_value = 386.182599297
+time taken = 2949
+time taken = 0
+10176
+gr_value = 423.624834022
+time taken = 3056
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 2923
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2970
+time taken = 0
+10176
+gr_value = 415.523765867
+time taken = 3076
+time taken = 0
+10176
+gr_value = 428.365498144
+time taken = 3256
+time taken = 0
+10176
+gr_value = 396.167893702
+time taken = 3270
+time taken = 0
+10176
+gr_value = 407.894594227
+time taken = 3136
+time taken = 0
+10176
+gr_value = 406.162529045
+time taken = 2934
+time taken = 0
+10176
+gr_value = 411.690417668
+time taken = 2967
+time taken = 0
+10176
+gr_value = 401.90794966
+time taken = 3111
+time taken = 0
+10176
+gr_value = 398.221044145
+time taken = 2892
+time taken = 0
+10176
+gr_value = 407.894594227
+time taken = 2963
+time taken = 0
+10176
+gr_value = 404.712243452
+time taken = 3048
+time taken = 0
+10084
+gr_value = 408.453179691
+time taken = 2895
+time taken = 0
+10163
+gr_value = 415.268587784
+time taken = 3045
+time taken = 0
+10176
+gr_value = 413.910618371
+time taken = 3034
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 3372
+time taken = 0
+10176
+gr_value = 424.698716739
+time taken = 3806
+time taken = 0
+10176
+gr_value = 426.057507855
+time taken = 2924
+time taken = 0
+10176
+gr_value = 407.295961188
+time taken = 2955
+time taken = 0
+10176
+gr_value = 424.018867505
+time taken = 3071
+time taken = 0
+10176
+gr_value = 426.385975379
+time taken = 2906
+time taken = 0
+10175
+gr_value = 411.690417668
+time taken = 2932
+time taken = 0
+10176
+gr_value = 427.552335978
+time taken = 2989
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 3155
+time taken = 0
+10176
+gr_value = 401.876846808
+time taken = 2931
+time taken = 0
+10176
+gr_value = 400.262413924
+time taken = 2994
+time taken = 0
+10176
+gr_value = 410.308420581
+time taken = 3069
+time taken = 0
+10176
+gr_value = 402.412723457
+time taken = 2927
+time taken = 0
+10176
+gr_value = 398.502195728
+time taken = 2954
+time taken = 0
+10176
+gr_value = 413.672575837
+time taken = 2999
+time taken = 0
+10176
+gr_value = 418.07296014
+time taken = 2929
+time taken = 0
+10176
+gr_value = 416.515305841
+time taken = 2939
+time taken = 0
+10176
+gr_value = 393.696583678
+time taken = 4762
+time taken = 0
+10176
+gr_value = 417.480538469
+time taken = 2915
+time taken = 0
+10176
+gr_value = 414.403185316
+time taken = 3354
+time taken = 0
+10176
+gr_value = 402.30461096
+time taken = 2967
+time taken = 0
+10176
+gr_value = 427.094837243
+time taken = 2949
+time taken = 0
+10176
+gr_value = 423.457199726
+time taken = 3230
+time taken = 0
+10176
+gr_value = 418.761268505
+time taken = 2919
+time taken = 0
+10176
+gr_value = 397.543708289
+time taken = 2962
+time taken = 0
+10176
+gr_value = 415.030119389
+time taken = 2920
+time taken = 0
+10176
+gr_value = 411.825205639
+time taken = 2995
+time taken = 0
+10176
+gr_value = 417.228953933
+time taken = 3058
+time taken = 0
+10176
+gr_value = 402.715780669
+time taken = 3458
+time taken = 0
+10176
+gr_value = 394.689751577
+time taken = 3120
+time taken = 0
+10176
+gr_value = 399.399549324
+time taken = 2973
+time taken = 0
+10176
+gr_value = 406.498462482
+time taken = 2922
+time taken = 0
+10176
+gr_value = 408.489901956
+time taken = 2878
+time taken = 0
+10176
+gr_value = 388.579464203
+time taken = 3057
+time taken = 0
+10176
+gr_value = 422.733958891
+time taken = 3897
+time taken = 0
+10176
+gr_value = 396.556427258
+time taken = 3752
+time taken = 0
+10176
+gr_value = 415.60076997
+time taken = 3060
+time taken = 0
+10176
+gr_value = 420.481866434
+time taken = 3364
+time taken = 0
+10176
+gr_value = 404.623281584
+time taken = 3480
+time taken = 0
+10176
+gr_value = 412.950360213
+time taken = 2916
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 2979
+time taken = 0
+10176
+gr_value = 406.970514902
+time taken = 3072
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 3004
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 3031
+time taken = 0
+10176
+gr_value = 424.004716955
+time taken = 2951
+time taken = 0
+10176
+gr_value = 433.253967091
+time taken = 3037
+time taken = 0
+10176
+gr_value = 428.266272312
+time taken = 3046
+time taken = 0
+10176
+gr_value = 397.3726211
+time taken = 2968
+time taken = 0
+10176
+gr_value = 405.770871305
+time taken = 3055
+time taken = 0
+10176
+gr_value = 420.611459663
+time taken = 3043
+time taken = 0
+10176
+gr_value = 401.418733992
+time taken = 3064
+time taken = 0
+10176
+gr_value = 413.240849868
+time taken = 2954
+time taken = 0
+10176
+gr_value = 404.494746567
+time taken = 3012
+time taken = 0
+10176
+gr_value = 416.547716354
+time taken = 3534
+time taken = 0
+10176
+gr_value = 426.821976941
+time taken = 3075
+time taken = 0
+10176
+gr_value = 404.975307889
+time taken = 3420
+time taken = 0
+10176
+gr_value = 413.411417356
+time taken = 2915
+time taken = 0
+10176
+gr_value = 404.259817444
+time taken = 3022
+time taken = 0
+10176
+gr_value = 404.623281584
+time taken = 7242
+time taken = 0
+10176
+gr_value = 429.355330699
+time taken = 2937
+time taken = 0
+10176
+gr_value = 427.176778395
+time taken = 3141
+time taken = 0
+10176
+gr_value = 396.557688111
+time taken = 2917
+time taken = 0
+10176
+gr_value = 425.396285832
+time taken = 3048
+time taken = 0
+10176
+gr_value = 422.338726616
+time taken = 3407
+time taken = 0
+10176
+gr_value = 415.030119389
+time taken = 3049
+time taken = 0
+10176
+gr_value = 417.221763574
+time taken = 3258
+time taken = 0
+10176
+gr_value = 405.616814247
+time taken = 3731
+time taken = 0
+10176
+gr_value = 415.072282862
+time taken = 2901
+time taken = 0
+10176
+gr_value = 414.672159664
+time taken = 3068
+time taken = 0
+10176
+gr_value = 423.206805238
+time taken = 2923
+time taken = 0
+10174
+gr_value = 426.184232463
+time taken = 2977
+time taken = 0
+10176
+gr_value = 397.555027638
+time taken = 3533
+time taken = 0
+10176
+gr_value = 400.535891026
+time taken = 3200
+time taken = 0
+10176
+gr_value = 411.588386619
+time taken = 2990
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 3018
+time taken = 0
+10174
+gr_value = 396.692576185
+time taken = 2979
+time taken = 0
+10176
+gr_value = 402.196469403
+time taken = 2916
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 3093
+time taken = 0
+10176
+gr_value = 426.057507855
+time taken = 3045
+time taken = 0
+10176
+gr_value = 416.346009948
+time taken = 2973
+time taken = 0
+10176
+gr_value = 396.547601178
+time taken = 2926
+time taken = 0
+10176
+gr_value = 411.407340722
+time taken = 2981
+time taken = 0
+10153
+gr_value = 408.502141977
+time taken = 3023
+time taken = 0
+10176
+gr_value = 429.355330699
+time taken = 3024
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 3238
+time taken = 0
+10176
+gr_value = 426.530186505
+time taken = 3158
+time taken = 0
+10175
+gr_value = 417.052754457
+time taken = 3051
+time taken = 0
+10176
+gr_value = 392.940199013
+time taken = 3023
+time taken = 0
+10176
+gr_value = 415.394992748
+time taken = 2958
+time taken = 0
+10176
+gr_value = 421.868462912
+time taken = 2926
+time taken = 0
+10176
+gr_value = 408.647770091
+time taken = 3130
+time taken = 0
+10176
+gr_value = 424.83526219
+time taken = 3005
+time taken = 0
+10176
+gr_value = 412.549390982
+time taken = 2937
+time taken = 0
+10176
+gr_value = 426.976580154
+time taken = 2987
+time taken = 0
+10176
+gr_value = 420.481866434
+time taken = 2923
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 3049
+time taken = 0
+10173
+gr_value = 382.75318418
+time taken = 3057
+time taken = 0
+10176
+gr_value = 417.905491708
+time taken = 3553
+time taken = 0
+10175
+gr_value = 422.338726616
+time taken = 3437
+time taken = 0
+10176
+gr_value = 397.190130794
+time taken = 3126
+time taken = 0
+10176
+gr_value = 425.179961898
+time taken = 4823
+time taken = 0
+10176
+gr_value = 410.668966444
+time taken = 5993
+time taken = 0
+10176
+gr_value = 406.601770778
+time taken = 3283
+time taken = 0
+10176
+gr_value = 395.991161518
+time taken = 7171
+time taken = 0
+10175
+gr_value = 398.278796825
+time taken = 2953
+time taken = 0
+10176
+gr_value = 414.27647773
+time taken = 3271
+time taken = 0
+10176
+gr_value = 422.40383521
+time taken = 3039
+time taken = 0
+10176
+gr_value = 406.281921823
+time taken = 3098
+time taken = 0
+10176
+gr_value = 411.806993627
+time taken = 2924
+time taken = 0
+10176
+gr_value = 392.842207508
+time taken = 3061
+time taken = 0
+10176
+gr_value = 423.010638164
+time taken = 3246
+time taken = 0
+10176
+gr_value = 411.700133592
+time taken = 3567
+time taken = 0
+10176
+gr_value = 418.628713779
+time taken = 3476
+time taken = 0
+10176
+gr_value = 413.349730858
+time taken = 3379
+time taken = 0
+10176
+gr_value = 406.735786476
+time taken = 3781
+time taken = 0
+10176
+gr_value = 426.530186505
+time taken = 3568
+time taken = 0
+10176
+gr_value = 411.691632171
+time taken = 3598
+time taken = 0
+10176
+gr_value = 419.314917455
+time taken = 3437
+time taken = 0
+10176
+gr_value = 426.937934599
+time taken = 3092
+time taken = 0
+10176
+gr_value = 432.261494931
+time taken = 3456
+time taken = 0
+10176
+gr_value = 420.104748842
+time taken = 3031
+time taken = 0
+10176
+gr_value = 427.375712927
+time taken = 3062
+time taken = 0
+10176
+gr_value = 405.833709788
+time taken = 2995
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 3127
+time taken = 0
+10176
+gr_value = 417.506886171
+time taken = 3039
+time taken = 0
+10176
+gr_value = 405.287552239
+time taken = 3147
+time taken = 0
+10176
+gr_value = 414.797540976
+time taken = 3547
+time taken = 0
+10176
+gr_value = 406.59562221
+time taken = 2972
+time taken = 0
+10176
+gr_value = 407.862722003
+time taken = 3339
+time taken = 0
+10176
+gr_value = 404.105184327
+time taken = 3687
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 3432
+time taken = 0
+10176
+gr_value = 400.535891026
+time taken = 2937
+time taken = 0
+10176
+gr_value = 399.361991181
+time taken = 2968
+time taken = 0
+10176
+gr_value = 429.535795947
+time taken = 3230
+time taken = 0
+10176
+gr_value = 418.370649066
+time taken = 3551
+time taken = 0
+10173
+gr_value = 392.942743921
+time taken = 3081
+time taken = 0
+10176
+gr_value = 402.30461096
+time taken = 3005
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 2985
+time taken = 0
+10176
+gr_value = 416.331598609
+time taken = 2935
+time taken = 0
+10176
+gr_value = 412.388166659
+time taken = 3108
+time taken = 0
+10176
+gr_value = 412.167441703
+time taken = 3084
+time taken = 0
+10176
+gr_value = 431.147306613
+time taken = 3223
+time taken = 0
+10152
+gr_value = 413.793426724
+time taken = 2933
+time taken = 0
+10176
+gr_value = 403.435248832
+time taken = 3161
+time taken = 0
+10176
+gr_value = 411.558015351
+time taken = 3478
+time taken = 0
+10176
+gr_value = 404.431700043
+time taken = 3144
+time taken = 0
+10176
+gr_value = 406.424654764
+time taken = 2960
+time taken = 0
+10176
+gr_value = 429.284288089
+time taken = 3084
+time taken = 0
+10176
+gr_value = 417.7702718
+time taken = 3531
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 3095
+time taken = 0
+10176
+gr_value = 403.298896602
+time taken = 3074
+time taken = 0
+10176
+gr_value = 413.948064375
+time taken = 2936
+time taken = 0
+10176
+gr_value = 413.377551398
+time taken = 2975
+time taken = 0
+10176
+gr_value = 417.252920901
+time taken = 2965
+time taken = 0
+10176
+gr_value = 409.704771756
+time taken = 2984
+time taken = 0
+10176
+gr_value = 404.754246426
+time taken = 2981
+time taken = 0
+10176
+gr_value = 424.264068712
+time taken = 2965
+time taken = 0
+10176
+gr_value = 424.057779082
+time taken = 2971
+time taken = 0
+10176
+gr_value = 416.515305841
+time taken = 3003
+time taken = 0
+10176
+gr_value = 410.019511731
+time taken = 2969
+time taken = 0
+10176
+gr_value = 429.161974084
+time taken = 3043
+time taken = 0
+10176
+gr_value = 426.530186505
+time taken = 3131
+time taken = 0
+10176
+gr_value = 429.917433934
+time taken = 2928
+time taken = 0
+10176
+gr_value = 417.905491708
+time taken = 2979
+time taken = 0
+10176
+gr_value = 417.009592216
+time taken = 2962
+time taken = 0
+10176
+gr_value = 388.908729653
+time taken = 2999
+time taken = 0
+10176
+gr_value = 409.480158249
+time taken = 3495
+time taken = 0
+10176
+gr_value = 401.204436665
+time taken = 3092
+time taken = 0
+10175
+gr_value = 395.303680732
+time taken = 3529
+time taken = 0
+10176
+gr_value = 414.584128977
+time taken = 3305
+time taken = 0
+10176
+gr_value = 413.456164545
+time taken = 3351
+time taken = 0
+10176
+gr_value = 397.917076789
+time taken = 2973
+time taken = 0
+10176
+gr_value = 407.276318978
+time taken = 3009
+time taken = 0
+10176
+gr_value = 420.575795785
+time taken = 3010
+time taken = 0
+10176
+gr_value = 399.500938672
+time taken = 3258
+time taken = 0
+10176
+gr_value = 397.287049877
+time taken = 2916
+time taken = 0
+10176
+gr_value = 408.827592024
+time taken = 2989
+time taken = 0
+10176
+gr_value = 423.274142844
+time taken = 3052
+time taken = 0
+10176
+gr_value = 413.240849868
+time taken = 2934
+time taken = 0
+10176
+gr_value = 415.665731087
+time taken = 3095
+time taken = 0
+10176
+gr_value = 408.270743502
+time taken = 2978
+time taken = 0
+10173
+gr_value = 391.846908882
+time taken = 2951
+time taken = 0
+10176
+gr_value = 423.010638164
+time taken = 2922
+time taken = 0
+10176
+gr_value = 400.660704337
+time taken = 2870
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 3031
+time taken = 0
+10176
+gr_value = 407.171953848
+time taken = 3651
+time taken = 0
+10175
+gr_value = 394.312059161
+time taken = 3403
+time taken = 0
+10173
+gr_value = 390.957798234
+time taken = 3410
+time taken = 0
+10176
+gr_value = 399.14408426
+time taken = 2932
+time taken = 0
+10176
+gr_value = 424.976469937
+time taken = 2890
+time taken = 0
+10176
+gr_value = 398.548616859
+time taken = 2880
+time taken = 0
+10176
+gr_value = 401.717562474
+time taken = 5514
+time taken = 0
+10176
+gr_value = 411.052308107
+time taken = 3502
+time taken = 0
+10176
+gr_value = 416.124981226
+time taken = 2888
+time taken = 0
+10176
+gr_value = 414.512967228
+time taken = 2928
+time taken = 0
+10176
+gr_value = 436.111224345
+time taken = 2955
+time taken = 0
+10176
+gr_value = 417.008393201
+time taken = 3414
+time taken = 0
+10176
+gr_value = 416.635332155
+time taken = 3487
+time taken = 0
+10176
+gr_value = 407.152305655
+time taken = 3452
+time taken = 0
+10176
+gr_value = 405.616814247
+time taken = 3254
+time taken = 0
+10176
+gr_value = 423.206805238
+time taken = 3512
+time taken = 0
+10157
+gr_value = 413.910618371
+time taken = 3453
+time taken = 0
+10176
+gr_value = 419.033411556
+time taken = 2919
+time taken = 0
+10176
+gr_value = 409.981706909
+time taken = 2977
+time taken = 0
+10176
+gr_value = 399.111513239
+time taken = 2946
+time taken = 0
+10176
+gr_value = 404.835769171
+time taken = 3188
+time taken = 0
+10176
+gr_value = 415.232465012
+time taken = 3538
+time taken = 0
+10176
+gr_value = 415.268587784
+time taken = 2960
+time taken = 0
+10176
+gr_value = 419.237402912
+time taken = 3226
+time taken = 0
+10176
+gr_value = 405.039504246
+time taken = 3243
+time taken = 0
+10176
+gr_value = 400.649472731
+time taken = 3540
+time taken = 0
+10176
+gr_value = 426.141995114
+time taken = 2962
+time taken = 0
+10176
+gr_value = 410.308420581
+time taken = 3033
+time taken = 0
+10176
+gr_value = 428.939389658
+time taken = 2954
+time taken = 0
+10176
+gr_value = 404.327837281
+time taken = 2948
+time taken = 0
+10176
+gr_value = 431.918973883
+time taken = 2984
+time taken = 0
+10176
+gr_value = 414.654072692
+time taken = 3389
+time taken = 0
+10176
+gr_value = 417.766681295
+time taken = 3125
+time taken = 0
+10176
+gr_value = 425.31047483
+time taken = 3033
+time taken = 0
+10176
+gr_value = 400.281151193
+time taken = 2952
+time taken = 0
+10176
+gr_value = 402.27478171
+time taken = 2952
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 2895
+time taken = 0
+10176
+gr_value = 407.862722003
+time taken = 3134
+time taken = 0
+10176
+gr_value = 426.385975379
+time taken = 2973
+time taken = 0
+10176
+gr_value = 416.646132827
+time taken = 2919
+time taken = 0
+10176
+gr_value = 426.676692591
+time taken = 2983
+time taken = 0
+10176
+gr_value = 405.975368711
+time taken = 2919
+time taken = 0
+10176
+gr_value = 425.603101492
+time taken = 3387
+time taken = 0
+10176
+gr_value = 419.577168111
+time taken = 2966
+time taken = 0
+10176
+gr_value = 400.535891026
+time taken = 2970
+time taken = 0
+10176
+gr_value = 409.585155981
+time taken = 2947
+time taken = 0
+10176
+gr_value = 423.133548658
+time taken = 2965
+time taken = 0
+10176
+gr_value = 410.566681551
+time taken = 2878
+time taken = 0
+10176
+gr_value = 432.511271529
+time taken = 2913
+time taken = 0
+10176
+gr_value = 430.255737905
+time taken = 2963
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 3195
+time taken = 0
+10176
+gr_value = 405.394869232
+time taken = 4322
+time taken = 0
+10176
+gr_value = 408.001225488
+time taken = 2972
+time taken = 0
+10176
+gr_value = 396.455546058
+time taken = 3013
+time taken = 0
+10176
+gr_value = 410.644615209
+time taken = 2932
+time taken = 0
+10162
+gr_value = 401.214406521
+time taken = 2881
+time taken = 0
+10175
+gr_value = 427.05620239
+time taken = 2939
+time taken = 0
+10176
+gr_value = 394.792350483
+time taken = 3006
+time taken = 0
+10171
+gr_value = 423.585882673
+time taken = 2916
+time taken = 0
+10176
+gr_value = 419.36261159
+time taken = 3007
+time taken = 0
+10176
+gr_value = 418.114816767
+time taken = 2933
+time taken = 0
+10176
+gr_value = 423.274142844
+time taken = 2921
+time taken = 0
+10176
+gr_value = 410.58981965
+time taken = 2869
+time taken = 0
+10176
+gr_value = 425.254041721
+time taken = 2998
+time taken = 0
+10176
+gr_value = 405.770871305
+time taken = 2962
+time taken = 0
+10176
+gr_value = 409.538764954
+time taken = 2965
+time taken = 0
+10176
+gr_value = 431.147306613
+time taken = 2844
+time taken = 0
+10176
+gr_value = 430.921106468
+time taken = 3002
+time taken = 0
+10176
+gr_value = 415.072282862
+time taken = 2923
+time taken = 0
+10176
+gr_value = 418.72425294
+time taken = 2939
+time taken = 0
+10176
+gr_value = 421.868462912
+time taken = 3061
+time taken = 0
+10176
+gr_value = 406.841492476
+time taken = 3292
+time taken = 0
+10176
+gr_value = 433.013856591
+time taken = 2933
+time taken = 0
+10176
+gr_value = 416.811708089
+time taken = 3080
+time taken = 0
+10176
+gr_value = 423.860826215
+time taken = 3012
+time taken = 0
+10176
+gr_value = 418.61676985
+time taken = 2913
+time taken = 0
+10176
+gr_value = 430.787650705
+time taken = 3331
+time taken = 0
+10176
+gr_value = 392.328943617
+time taken = 3053
+time taken = 0
+10176
+gr_value = 430.633254638
+time taken = 3071
+time taken = 0
+10176
+gr_value = 410.409551546
+time taken = 2957
+time taken = 0
+10176
+gr_value = 414.030192136
+time taken = 2930
+time taken = 0
+10176
+gr_value = 401.04987221
+time taken = 3020
+time taken = 0
+10176
+gr_value = 412.00121359
+time taken = 2997
+time taken = 0
+10176
+gr_value = 405.44543406
+time taken = 3007
+time taken = 0
+10176
+gr_value = 412.815939615
+time taken = 3031
+time taken = 0
+10176
+gr_value = 404.510815677
+time taken = 2991
+time taken = 0
+10176
+gr_value = 417.642191355
+time taken = 3069
+time taken = 0
+10176
+gr_value = 402.636312322
+time taken = 2986
+time taken = 0
+10176
+gr_value = 418.216451135
+time taken = 3001
+time taken = 0
+10176
+gr_value = 426.823148388
+time taken = 3026
+time taken = 0
+10176
+gr_value = 402.751784602
+time taken = 3010
+time taken = 0
+10176
+gr_value = 416.331598609
+time taken = 3042
+time taken = 0
+10176
+gr_value = 424.12380268
+time taken = 3068
+time taken = 0
+10176
+gr_value = 422.284264448
+time taken = 2942
+time taken = 0
+10176
+gr_value = 404.901222522
+time taken = 2984
+time taken = 0
+10176
+gr_value = 427.375712927
+time taken = 3023
+time taken = 0
+10176
+gr_value = 421.047503258
+time taken = 3057
+time taken = 0
+10176
+gr_value = 420.104748842
+time taken = 3048
+time taken = 0
+10176
+gr_value = 411.246884487
+time taken = 2962
+time taken = 0
+10176
+gr_value = 422.733958891
+time taken = 2925
+time taken = 0
+10176
+gr_value = 427.375712927
+time taken = 2966
+time taken = 0
+10176
+gr_value = 418.766044469
+time taken = 2993
+time taken = 0
+10176
+gr_value = 430.066273963
+time taken = 2998
+time taken = 0
+10176
+gr_value = 413.540808144
+time taken = 3166
+time taken = 0
+10176
+gr_value = 413.436815003
+time taken = 2879
+time taken = 0
+10176
+gr_value = 422.626312479
+time taken = 2983
+time taken = 0
+10176
+gr_value = 403.193501932
+time taken = 3360
+time taken = 0
+10176
+gr_value = 401.204436665
+time taken = 3576
+time taken = 0
+10176
+gr_value = 399.624824054
+time taken = 3008
+time taken = 0
+10176
+gr_value = 418.761268505
+time taken = 2976
+time taken = 0
+10176
+gr_value = 415.130100089
+time taken = 2996
+time taken = 0
+10176
+gr_value = 406.281921823
+time taken = 2987
+time taken = 0
+10176
+gr_value = 423.023640001
+time taken = 3290
+time taken = 0
+10176
+gr_value = 404.105184327
+time taken = 2990
+time taken = 0
+10176
+gr_value = 428.291956497
+time taken = 3446
+time taken = 0
+10176
+gr_value = 404.77648153
+time taken = 2994
+time taken = 0
+10176
+gr_value = 407.965684831
+time taken = 3063
+time taken = 0
+10176
+gr_value = 414.672159664
+time taken = 3262
+time taken = 0
+10176
+gr_value = 412.549390982
+time taken = 2928
+time taken = 0
+10176
+gr_value = 425.070582374
+time taken = 3101
+time taken = 0
+10176
+gr_value = 420.448569982
+time taken = 3066
+time taken = 0
+10176
+gr_value = 423.859646581
+time taken = 3082
+time taken = 0
+10176
+gr_value = 410.761487971
+time taken = 3013
+time taken = 0
+10176
+gr_value = 429.644038711
+time taken = 2918
+time taken = 0
+10176
+gr_value = 406.610378618
+time taken = 3104
+time taken = 0
+10176
+gr_value = 417.73795614
+time taken = 3172
+time taken = 0
+10176
+gr_value = 430.921106468
+time taken = 3052
+time taken = 0
+10176
+gr_value = 424.841146783
+time taken = 3209
+time taken = 0
+10176
+gr_value = 421.868462912
+time taken = 3429
+time taken = 0
+10176
+gr_value = 392.001275508
+time taken = 3018
+time taken = 0
+10176
+gr_value = 413.961350853
+time taken = 3122
+time taken = 0
+10176
+gr_value = 400.49968789
+time taken = 2930
+time taken = 0
+10176
+gr_value = 422.143340585
+time taken = 3068
+time taken = 0
+10176
+gr_value = 406.735786476
+time taken = 3011
+time taken = 0
+10176
+gr_value = 420.023808849
+time taken = 3109
+time taken = 0
+10176
+gr_value = 405.478729405
+time taken = 3681
+time taken = 0
+10161
+gr_value = 415.523765867
+time taken = 2880
+time taken = 0
+10176
+gr_value = 406.306534528
+time taken = 3111
+time taken = 0
+10176
+gr_value = 433.253967091
+time taken = 3358
+time taken = 0
+10176
+gr_value = 397.555027638
+time taken = 3669
+time taken = 0
+10176
+gr_value = 421.683530625
+time taken = 3494
+time taken = 0
+10176
+gr_value = 414.366987102
+time taken = 3088
+time taken = 0
+10176
+gr_value = 406.768976201
+time taken = 3037
+time taken = 0
+10175
+gr_value = 417.882758678
+time taken = 3085
+time taken = 0
+10176
+gr_value = 403.635974611
+time taken = 2985
+time taken = 0
+10176
+gr_value = 421.517496671
+time taken = 3381
+time taken = 0
+10176
+gr_value = 411.486330271
+time taken = 3116
+time taken = 0
+10176
+gr_value = 397.905767739
+time taken = 3136
+time taken = 0
+10176
+gr_value = 403.495972718
+time taken = 3509
+time taken = 0
+10176
+gr_value = 396.610640301
+time taken = 3422
+time taken = 0
+10176
+gr_value = 401.758634008
+time taken = 3460
+time taken = 0
+10176
+gr_value = 421.099750653
+time taken = 3075
+time taken = 0
+10176
+gr_value = 391.603115412
+time taken = 3441
+time taken = 0
+10176
+gr_value = 424.166240995
+time taken = 3124
+time taken = 0
+10176
+gr_value = 406.724722632
+time taken = 3307
+time taken = 0
+10176
+gr_value = 410.644615209
+time taken = 3546
+time taken = 0
+10176
+gr_value = 426.298017823
+time taken = 3306
+time taken = 0
+10176
+gr_value = 397.456915904
+time taken = 3685
+time taken = 0
+10176
+gr_value = 428.224240323
+time taken = 3504
+time taken = 0
+10176
+gr_value = 403.27286048
+time taken = 3315
+time taken = 0
+10176
+gr_value = 409.029338801
+time taken = 3050
+time taken = 0
+10176
+gr_value = 425.832126548
+time taken = 2997
+time taken = 0
+10176
+gr_value = 412.485151248
+time taken = 2914
+time taken = 0
+10176
+gr_value = 406.872215812
+time taken = 3112
+time taken = 0
+10176
+gr_value = 402.412723457
+time taken = 2940
+time taken = 0
+10176
+gr_value = 429.408896042
+time taken = 3176
+time taken = 0
+10176
+gr_value = 410.537452615
+time taken = 3438
+time taken = 0
+10176
+gr_value = 422.427508574
+time taken = 3029
+time taken = 0
+10176
+gr_value = 426.063375568
+time taken = 3333
+time taken = 0
+10176
+gr_value = 415.393789072
+time taken = 3552
+time taken = 0

@@ -1,0 +1,9 @@
+count of a: 107
+count of c: 113
+count of g: 126
+count of t: 98
+total count: 444
+mewx: 9.621622
+mewy: 5.599099
+sqrGr: 123.925522
+gr: 11.132184

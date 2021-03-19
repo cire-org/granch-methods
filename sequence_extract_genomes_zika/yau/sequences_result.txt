@@ -1,0 +1,15 @@
+count of a: 0
+count of c: 0
+count of g: 0
+count of t: 0
+total count: 0
+mx: 0.000000
+my: 0.000000
+nx: 0.000000
+ny: 0.000000
+x_resultant: 0.000000
+y_resultant: 0.000000
+mewx: -nan
+mewy: -nan
+sqrGr: -nan
+gr: -nan

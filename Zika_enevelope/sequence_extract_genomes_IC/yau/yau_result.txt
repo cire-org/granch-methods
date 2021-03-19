@@ -1,0 +1,285 @@
+count of a: 2817
+count of c: 2260
+count of g: 2997
+count of t: 2198
+total count: 10272
+mx: 2507.500000
+my: 4552.695312
+nx: 2628.500000
+ny: 4343.117188
+x_resultant: 5196.500000
+y_resultant: 5075.500000
+mewx: 3525.035400
+mewy: -431.524872
+sqrGr: 12612089.000000
+gr: 3551.350342
+count of a: 2817
+count of c: 2253
+count of g: 2995
+count of t: 2207
+total count: 10272
+mx: 2512.000000
+my: 4544.901367
+nx: 2624.000000
+ny: 4350.911621
+x_resultant: 5192.000000
+y_resultant: 5080.000000
+mewx: 3522.831055
+mewy: -426.784271
+sqrGr: 12592484.000000
+gr: 3548.589111
+count of a: 2815
+count of c: 2255
+count of g: 2996
+count of t: 2206
+total count: 10272
+mx: 2510.500000
+my: 4547.499512
+nx: 2625.500000
+ny: 4348.313477
+x_resultant: 5193.500000
+y_resultant: 5078.500000
+mewx: 3523.057617
+mewy: -426.120667
+sqrGr: 12593514.000000
+gr: 3548.734131
+count of a: 2822
+count of c: 2237
+count of g: 2997
+count of t: 2216
+total count: 10272
+mx: 2519.000000
+my: 4532.776855
+nx: 2617.000000
+ny: 4363.036133
+x_resultant: 5185.000000
+y_resultant: 5087.000000
+mewx: 3522.886963
+mewy: -428.481110
+sqrGr: 12594329.000000
+gr: 3548.848877
+count of a: 2814
+count of c: 2253
+count of g: 3000
+count of t: 2205
+total count: 10272
+mx: 2509.500000
+my: 4549.231445
+nx: 2626.500000
+ny: 4346.581543
+x_resultant: 5194.500000
+y_resultant: 5077.500000
+mewx: 3523.790039
+mewy: -427.620819
+sqrGr: 12599956.000000
+gr: 3549.641602
+count of a: 2833
+count of c: 2228
+count of g: 3005
+count of t: 2206
+total count: 10272
+mx: 2519.500000
+my: 4531.911133
+nx: 2616.500000
+ny: 4363.901855
+x_resultant: 5184.500000
+y_resultant: 5087.500000
+mewx: 3524.326660
+mewy: -430.472168
+sqrGr: 12606184.000000
+gr: 3550.518799
+count of a: 2833
+count of c: 2226
+count of g: 3005
+count of t: 2208
+total count: 10272
+mx: 2520.500000
+my: 4530.178711
+nx: 2615.500000
+ny: 4365.634277
+x_resultant: 5183.500000
+y_resultant: 5088.500000
+mewx: 3524.283447
+mewy: -430.628601
+sqrGr: 12606015.000000
+gr: 3550.495117
+count of a: 2833
+count of c: 2228
+count of g: 3005
+count of t: 2206
+total count: 10272
+mx: 2519.500000
+my: 4531.911133
+nx: 2616.500000
+ny: 4363.901855
+x_resultant: 5184.500000
+y_resultant: 5087.500000
+mewx: 3524.185303
+mewy: -430.532257
+sqrGr: 12605240.000000
+gr: 3550.385986
+count of a: 2848
+count of c: 2227
+count of g: 2981
+count of t: 2204
+total count: 10260
+mx: 2526.000000
+my: 4510.260254
+nx: 2604.000000
+ny: 4375.160156
+x_resultant: 5169.000000
+y_resultant: 5091.000000
+mewx: 3516.014404
+mewy: -433.030273
+sqrGr: 12549872.000000
+gr: 3542.579834
+count of a: 2824
+count of c: 2217
+count of g: 3011
+count of t: 2202
+total count: 10254
+mx: 2513.000000
+my: 4527.580566
+nx: 2614.000000
+ny: 4352.643555
+x_resultant: 5177.500000
+y_resultant: 5076.500000
+mewx: 3516.310059
+mewy: -436.689209
+sqrGr: 12555133.000000
+gr: 3543.322266
+count of a: 2831
+count of c: 2231
+count of g: 3007
+count of t: 2203
+total count: 10272
+mx: 2517.000000
+my: 4536.241211
+nx: 2619.000000
+ny: 4359.571777
+x_resultant: 5187.000000
+y_resultant: 5085.000000
+mewx: 3525.043213
+mewy: -430.939636
+sqrGr: 12611639.000000
+gr: 3551.286865
+count of a: 2801
+count of c: 2250
+count of g: 3015
+count of t: 2206
+total count: 10272
+mx: 2503.500000
+my: 4559.623535
+nx: 2632.500000
+ny: 4336.188965
+x_resultant: 5200.500000
+y_resultant: 5071.500000
+mewx: 3525.958740
+mewy: -424.315765
+sqrGr: 12612429.000000
+gr: 3551.398193
+count of a: 2817
+count of c: 2245
+count of g: 2996
+count of t: 2214
+total count: 10272
+mx: 2515.500000
+my: 4538.839355
+nx: 2620.500000
+ny: 4356.973633
+x_resultant: 5188.500000
+y_resultant: 5083.500000
+mewx: 3521.174561
+mewy: -425.548370
+sqrGr: 12579761.000000
+gr: 3546.795898
+count of a: 2817
+count of c: 2258
+count of g: 2996
+count of t: 2201
+total count: 10272
+mx: 2509.000000
+my: 4550.097656
+nx: 2627.000000
+ny: 4345.715332
+x_resultant: 5195.000000
+y_resultant: 5077.000000
+mewx: 3523.974365
+mewy: -428.057007
+sqrGr: 12601628.000000
+gr: 3549.877197
+count of a: 2811
+count of c: 2241
+count of g: 3002
+count of t: 2218
+total count: 10272
+mx: 2514.500000
+my: 4540.571289
+nx: 2621.500000
+ny: 4355.241699
+x_resultant: 5189.500000
+y_resultant: 5082.500000
+mewx: 3522.650635
+mewy: -423.915741
+sqrGr: 12588772.000000
+gr: 3548.065918
+count of a: 2819
+count of c: 2253
+count of g: 2995
+count of t: 2205
+total count: 10272
+mx: 2512.000000
+my: 4544.901367
+nx: 2624.000000
+ny: 4350.911621
+x_resultant: 5192.000000
+y_resultant: 5080.000000
+mewx: 3522.516846
+mewy: -428.578430
+sqrGr: 12591804.000000
+gr: 3548.493164
+count of a: 2818
+count of c: 2254
+count of g: 2996
+count of t: 2204
+total count: 10272
+mx: 2511.000000
+my: 4546.633301
+nx: 2625.000000
+ny: 4349.179688
+x_resultant: 5193.000000
+y_resultant: 5079.000000
+mewx: 3522.728271
+mewy: -428.522186
+sqrGr: 12593245.000000
+gr: 3548.696289
+count of a: 2808
+count of c: 2254
+count of g: 3005
+count of t: 2205
+total count: 10272
+mx: 2506.500000
+my: 4554.427734
+nx: 2629.500000
+ny: 4341.385254
+x_resultant: 5197.500000
+y_resultant: 5074.500000
+mewx: 3525.432129
+mewy: -425.668823
+sqrGr: 12609866.000000
+gr: 3551.037354
+count of a: 2820
+count of c: 2265
+count of g: 2993
+count of t: 2194
+total count: 10272
+mx: 2507.000000
+my: 4553.561523
+nx: 2629.000000
+ny: 4342.251465
+x_resultant: 5197.000000
+y_resultant: 5075.000000
+mewx: 3525.228271
+mewy: -429.947052
+sqrGr: 12612088.000000
+gr: 3551.350098

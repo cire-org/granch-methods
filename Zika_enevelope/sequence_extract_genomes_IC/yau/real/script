@@ -1,0 +1,2 @@
+for i in sequences/*.fasta; do ./YauPlot "$i"; done
+tail -n +1 sequences/*result.txt > yau_result.out
